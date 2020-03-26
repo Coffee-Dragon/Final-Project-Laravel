@@ -1,0 +1,8 @@
+.header {
+  border: 1px green solid;
+  display: flex;
+}
+
+.header-text {
+  border: 1px red solid;
+}

@@ -38,6 +38,8 @@
         ]
     },
     "dependencies": {
-        "dropzone": "^5.5.1"
+        "dropzone": "^5.5.1",
+        "react-player": "^1.15.2",
+        "react-router-dom": "^5.1.2"
     }
 }
